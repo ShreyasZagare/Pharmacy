@@ -35,9 +35,5 @@ Link of the App -> https://drive.google.com/file/d/1AQhCkHjHd5qQ4JgeZDrbbnQ-fv4_
 <img src="https://user-images.githubusercontent.com/76784857/132289050-0be4067f-c0a4-4556-b8d1-6fe6d0bd6923.PNG" width="650" height="470">
  </p>
  
-  ## Account Page
-  <p align="center">
-<img src="https://user-images.githubusercontent.com/76784857/132289215-0cf10a0b-6e70-4440-af52-b4d3a4b1d788.jpg" width="217" height="440">
-<img src="https://user-images.githubusercontent.com/76784857/132289227-d5c88827-f050-44c4-8b58-358a1cec264f.jpg" width="217" height="440">
- </p>
+
 
